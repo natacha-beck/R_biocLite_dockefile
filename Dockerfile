@@ -1,5 +1,7 @@
 FROM centos:6.6
 
+MAINTAINER Natacha Beck <natabeck@gmail.com>
+
 # Install prerequisite
 RUN yum update  -y
 
